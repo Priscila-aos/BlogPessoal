@@ -1,4 +1,4 @@
-package br.com.generation.blogPjessoal;
+package br.com.generation.blogPessoal;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
